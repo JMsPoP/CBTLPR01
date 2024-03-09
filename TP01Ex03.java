@@ -1,3 +1,9 @@
+/*
+@Author ("Joao Marcos Teles Silva CB3026787")
+3. Calcular e exibir a área de um quadrado a partir do valor de sua diagonal que será
+digitado.
+*/
+
 import java.util.Scanner;
 
 public class TP01Ex03 {

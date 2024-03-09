@@ -1,3 +1,9 @@
+/*
+@Author ("Joao Marcos Teles Silva CB3026787")
+6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão
+digitados.
+*/
+
 import java.util.Scanner;
 
 public class TP01Ex06 {

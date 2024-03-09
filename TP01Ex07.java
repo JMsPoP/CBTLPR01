@@ -1,3 +1,9 @@
+/*
+@Author ("Joao Marcos Teles Silva CB3026787")
+7. Calcular e exibir a média geométrica de dois valores quaisquer que serão
+digitados.
+*/
+
 import java.util.Scanner;
 
 public class TP01Ex07 {

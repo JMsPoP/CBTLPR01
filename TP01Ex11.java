@@ -1,3 +1,8 @@
+/*
+@Author ("Joao Marcos Teles Silva CB3026787")
+11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área.
+*/
+
 import java.util.Scanner;
 
 public class TP01Ex11 {
